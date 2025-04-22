@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development projects
 - 🌱 I’m currently learning DSA and typescript
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me yogeshrana2301@gmail.com
+- 📫 How to reach me hi.yogeshrana@gmail.com
 - 😄 Pronouns: he/him
 
 <!---
