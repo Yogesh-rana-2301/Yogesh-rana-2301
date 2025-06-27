@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yogesh-rana-2301
+- 👋 Hi, I’m Yogesh-rana.
 - 👀 I’m interested in full stack development projects
 - 🌱 I’m currently learning DSA and typescript
 - 💞️ I’m looking to collaborate on frontend projects
