@@ -4,7 +4,7 @@
     alt="YOGESH RANA"
   />
 </div>
-<div align="center">
+
 - 👋 Hi, I’m Yogesh-rana.
 - 👀 I’m interested in full stack development projects
 - 🌱 I’m currently learning DSA and typescript
