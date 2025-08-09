@@ -12,6 +12,23 @@
 - 📫 How to reach me hi.yogeshrana@gmail.com
 - 😄 Pronouns: he/him
 
+## 📊 GitHub Analytics
+<div align="center">
+
+### 🏆 Profile Stats
+[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogesh-rana-2301&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Yogesh-rana-2301)
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yogesh-rana-2301)](https://git.io/streak-stats)
+
+### 📈 Activity Graph
+[![Yogesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-rana-2301&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff)](https://github.com/Yogesh-rana-2301)
+
+### 💻 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-rana-2301&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)](https://github.com/Yogesh-rana-2301)
+
+</div>
+
 
 <!---
 Yogesh-rana-2301/Yogesh-rana-2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
