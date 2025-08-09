@@ -28,6 +28,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-rana-2301&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)](https://github.com/Yogesh-rana-2301)
 
 </div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yogesh-rana-2301&theme=apprentice">
+  </a>
+</p>
 
 
 <!---
