@@ -24,8 +24,9 @@
 ### 📈 Activity Graph
 [![Yogesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-rana-2301&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff)](https://github.com/Yogesh-rana-2301)
 
+
 ### 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-rana-2301&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)](https://github.com/Yogesh-rana-2301)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-rana-2301&hide=Jupyter%20Notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)](https://github.com/Yogesh-rana-2301)
 
 </div>
 <p align="center">
