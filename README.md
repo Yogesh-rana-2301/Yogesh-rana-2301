@@ -4,13 +4,15 @@
     alt="YOGESH RANA"
   />
 </div>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yogesh-rana-2301&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-rana-2301" /> </p>
 - 👋 Hi, I’m Yogesh-rana.
 - 👀 I’m interested in full stack development projects
 - 🌱 I’m currently learning DSA and typescript
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me hi.yogeshrana@gmail.com
 - 😄 Pronouns: he/him
+  
+
 
 ## 📊 GitHub Analytics
 <div align="center">
@@ -29,11 +31,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-rana-2301&hide=Jupyter%20Notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)](https://github.com/Yogesh-rana-2301)
 
 </div>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yogesh-rana-2301&theme=apprentice">
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-rana-2301&theme=dracula&margin-w=15&margin-h=15" alt="yogesh-rana-2301" /></a> </p>
+
 
 
 <!---
