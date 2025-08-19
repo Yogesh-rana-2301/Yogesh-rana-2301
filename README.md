@@ -4,15 +4,18 @@
     alt="YOGESH RANA"
   />
 </div>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yogesh-rana-2301&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-rana-2301" /> </p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://img.shields.io/badge/Software_Engineer-Yogesh_Rana-24D424" alt="Software Engineer - Yogesh Rana" />
+</div>
+<img src="https://komarev.com/ghpvc/?username=yogesh-rana-2301&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-- 👋 Hi, I’m Yogesh-rana.
-- 👀 I’m interested in full stack development projects
-- 🌱 I’m currently learning DSA and typescript
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me hi.yogeshrana@gmail.com
-- 😄 Pronouns: he/him
-  
+- 👋 Hi, I’m Yogesh-rana.  
+- 👀 I’m interested in full stack development projects  
+- 🌱 I’m currently learning DSA and TypeScript  
+- 💞️ I’m looking to collaborate on frontend projects  
+- 📫 How to reach me: **hi.yogeshrana@gmail.com**  
+- 😄 Pronouns: he/him  
+
 
 
 ## 📊 GitHub Analytics
