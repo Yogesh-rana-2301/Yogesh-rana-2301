@@ -127,7 +127,7 @@
       <br>Vercel
     </td>
     <td align="center" width="96">
-          <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./assets/figma.gif" alt="figma" width="40" height="40"/> </a> 
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="vercel" />
       <br>Figma
     </td>
     <td align="center" width="96">
