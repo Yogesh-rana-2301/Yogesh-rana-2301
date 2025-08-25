@@ -49,13 +49,14 @@
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" />
       <br>Supabase
     </td>
-    <td align="center" width="96">
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a> 
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="react" />
       <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
       <br>Python
+    </td>
     <td align="center" width="96">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cplusplus" width="40" height="40"/> </a> 
       <br>C++
@@ -96,8 +97,8 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
-          <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src=".//assets//django.svg" alt="django" width="40" height="40"/> </a> 
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="mysql" />
       <br>Django
     </td>
     <td align="center" width="96">
@@ -113,7 +114,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="github" />
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="git" />
       <br>GitHub
     </td>
   </tr>
@@ -161,8 +162,8 @@
       <br>Anaconda
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bash" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="bash" />
+      <br>Pytorch
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="bash" />
