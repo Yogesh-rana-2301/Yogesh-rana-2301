@@ -250,7 +250,9 @@
 </table>
 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=&section=footer&reversal=true&textBg=false&fontColor=FF0000&fontSize=16&animation=fadeIn"/>
+</p>
 
 <!---
 Yogesh-rana-2301/Yogesh-rana-2301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
