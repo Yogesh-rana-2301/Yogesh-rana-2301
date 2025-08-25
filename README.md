@@ -61,7 +61,7 @@
       <br>C++
     </td>
     <td align="center" width="96">
-          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./assets//c.gif" alt="c" width="40" height="40"/> </a> 
+          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./assets//c.png" alt="c" width="40" height="40"/> </a> 
       <br>C
     </td>
   </tr>
@@ -243,7 +243,7 @@
       <br>SQLite
     </td>
     <td align="center" width="96">
-          <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="./assets//selenium.gif" alt="c" width="40" height="40"/> </a> 
+          <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="./assets//selenium.png" alt="c" width="40" height="40"/> </a> 
       <br>Selenium
     </td>
   </tr>
