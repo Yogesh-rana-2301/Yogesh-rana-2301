@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-rana-2301&hide=Jupyter%20Notebook&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6)](https://github.com/Yogesh-rana-2301)
 
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-rana-2301&theme=dracula&margin-w=15&margin-h=15" alt="yogesh-rana-2301" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=yogesh-rana-2301&theme=dracula&margin-w=15&margin-h=15" alt="yogesh-rana-2301" /></a> </p>
 
 
 
