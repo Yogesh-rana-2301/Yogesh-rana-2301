@@ -33,7 +33,7 @@
 
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=yogesh-rana-2301&theme=dracula&margin-w=15&margin-h=15" alt="yogesh-rana-2301" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-rana-2301&theme=dracula&margin-w=15&margin-h=15" alt="yogesh-rana-2301" /></a> </p>
 
 <br>
 <br>
