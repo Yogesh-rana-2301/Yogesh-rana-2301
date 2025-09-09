@@ -11,7 +11,8 @@
 
 - 👋 Hi, I’m Yogesh-rana.  
 - 👀 I’m interested in full stack development projects  
-- 🌱 I’m currently learning DSA and TypeScript  
+- 🌱 I’m currently learning DSA and TypeScript
+- 🍁 Currently working on EventHive.
 - 💞️ I’m looking to collaborate on frontend projects  
 - 📫 How to reach me: **hi.yogeshrana@gmail.com**  
 - 😄 Pronouns: he/him  
