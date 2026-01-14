@@ -9,12 +9,13 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=yogesh-rana-2301&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-- 👋 Hi, I’m Yogesh-rana.  
+- 👋 Hi, I’m Yogesh-rana
 - 👀 I’m interested in full stack development projects  
-- 🌱 I’m currently learning DSA and TypeScript
-- 🍁 Currently working on EventHive.
-- 💞️ I’m looking to collaborate on frontend projects  
-- 📫 How to reach me: **hi.yogeshrana@gmail.com**  
+- 🌱 I’m currently learning DSA and system design
+- 🍁 Currently working on Crowdmap
+- 💞️ I’m looking to collaborate on backend projects  
+- 📫 My Portfolio: https://yogeshrana.me
+- 📧 Gmail : yogeshrana2301@gmail.com
 - 😄 Pronouns: he/him  
 
 ## 📊 GitHub Analytics
