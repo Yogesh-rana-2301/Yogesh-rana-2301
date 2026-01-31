@@ -18,16 +18,16 @@
 - 📧 Gmail : yogeshrana2301@gmail.com
 - 😄 Pronouns: he/him  
 
-## 📊 GitHub Analytics
+## 🍁 GitHub Analytics
 <div align="center">
 
-### 🏆 Profile Stats
-[![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yogesh-rana-2301&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Yogesh-rana-2301)
+### Profile Stats
+[![Yogesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Yogesh-rana-2301&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Yogesh-rana-2301)
 
-### 🔥 Streak Stats
+### Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yogesh-rana-2301&theme=catppuccin-frappe&locale=en&exclude_days=Mon)](https://git.io/streak-stats)
 
-### 📈 Activity Graph
+### Activity Graph
 [![Yogesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-rana-2301&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff)](https://github.com/Yogesh-rana-2301)
 
 <br>
