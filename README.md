@@ -12,9 +12,9 @@
 - 👋 Hi, I’m Yogesh-rana
 - 👀 I’m interested in full stack development projects  
 - 🌱 I’m currently learning DSA and system design
-- 🍁 Currently working on Crowdmap
+- 🍁 Currently working on Crowdmap 
 - 💞️ I’m looking to collaborate on backend projects  
-- 📫 My Portfolio: https://yogeshrana.me
+- 📫 My Portfolio: https://yogeshrana.dev
 - 📧 Gmail : yogeshrana2301@gmail.com
 - 😄 Pronouns: he/him  
 
