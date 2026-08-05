@@ -25,7 +25,7 @@
 [![Yogesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Yogesh-rana-2301&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Yogesh-rana-2301)
 
 ### Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yogesh-rana-2301&theme=catppuccin-frappe&locale=en&exclude_days=Mon)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Yogesh-rana-2301&theme=github_dark&locale=en&exclude_days=Mon)](https://git.io/streak-stats)
 
 ### Activity Graph
 [![Yogesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-rana-2301&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=58a6ff)](https://github.com/Yogesh-rana-2301)
